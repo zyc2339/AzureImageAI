@@ -1,0 +1,19 @@
+{
+  "name": "mission2developer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/cognitiveservices-computervision": "^8.1.0",
+    "async": "^3.2.2",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "multer": "^1.4.3",
+    "uuid": "^8.3.2"
+  }
+}
